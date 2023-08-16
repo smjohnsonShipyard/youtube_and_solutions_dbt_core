@@ -5,7 +5,7 @@ soccer_538:
       type: bigquery
       method: service-account
       project: shipyard-demos # Replace this with your project id
-      dataset: dbt_shipyard # Replace this with dbt_your_name, e.g. dbt_bob
+      dataset: dbt_steven # Replace this with dbt_your_name, e.g. dbt_bob
       threads: 4
       timeout_seconds: 300
       location: US
