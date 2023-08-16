@@ -1,0 +1,11 @@
+select 
+    video_id,
+    date_published,
+    video_title,
+    video_tags,
+    does_video_have_caption,
+    video_view_count,
+    video_like_count,
+    video_comment_count
+from 
+    {{ref('stg_youtube')}}
