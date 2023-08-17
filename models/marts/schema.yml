@@ -1,9 +1,0 @@
-version: 2
-
-models:
-  - name: mart_solutions
-    description: Gives information about our solution pages from webflow
-  - name: mart_youtube_dim
-    description: Gives qualatative information about our YouTube videos 
-  - name: mart_youtube_fact
-    description: Gives quantative information about our YouTube videos

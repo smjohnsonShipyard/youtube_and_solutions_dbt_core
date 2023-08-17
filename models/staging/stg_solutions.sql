@@ -1,1 +1,0 @@
-SELECT * FROM `shipyard-demos.dbt_core_solutions.raw_solutions` 

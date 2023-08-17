@@ -1,8 +1,0 @@
-version: 2
-
-models:
-  - name: stg_solutions
-    description: Table from Webflow that displays our solutions and information about them.
-
-  - name: stg_youtube
-    description: Table from YouTube that displays our videos and their statistics.
