@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: int_solutions
+    description: Parses through the JSON file and extracts the YouTube video ID.
+  - name: int_youtube
+    description: Cleans up data 

@@ -1,0 +1,1 @@
+SELECT * from `shipyard-demos.dbt_core_solutions.raw_youtube_data` 
