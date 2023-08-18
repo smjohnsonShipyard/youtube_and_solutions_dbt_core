@@ -6,7 +6,7 @@ with qryDict as (
         slug,
         primary_blueprint,
         secondary_blueprint,
-        integration_used,
+        integrations_used,
         categories,
         roles,
         youtube_link_embed,
